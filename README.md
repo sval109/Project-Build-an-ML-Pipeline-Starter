@@ -1,3 +1,10 @@
+# Project Details for Stacy Valentine's 'Build an ML Pipeline for Short-term Rental Prices in NYC' Udacity Project for WGU
+# Weights & Biases Project
+https://wandb.ai/sval109-western-governors-university/nyc_airbnb?nw=nwusersval109
+
+# Github Project
+https://github.com/sval109/Project-Build-an-ML-Pipeline-Starter
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
